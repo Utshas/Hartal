@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hortal V2", "Assembly-CSharp-firstpass.csproj", "{AABC4557-A19B-AA43-6503-6F3C966ED032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hortal V2", "Assembly-CSharp.csproj", "{AF73F29F-0C63-9509-192B-18E154A80C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hortal V2", "Assembly-CSharp-Editor-firstpass.csproj", "{DD926667-A004-20DF-638F-E6251C3D48A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABC4557-A19B-AA43-6503-6F3C966ED032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABC4557-A19B-AA43-6503-6F3C966ED032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABC4557-A19B-AA43-6503-6F3C966ED032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABC4557-A19B-AA43-6503-6F3C966ED032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF73F29F-0C63-9509-192B-18E154A80C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF73F29F-0C63-9509-192B-18E154A80C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF73F29F-0C63-9509-192B-18E154A80C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF73F29F-0C63-9509-192B-18E154A80C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD926667-A004-20DF-638F-E6251C3D48A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD926667-A004-20DF-638F-E6251C3D48A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD926667-A004-20DF-638F-E6251C3D48A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD926667-A004-20DF-638F-E6251C3D48A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
